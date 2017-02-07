@@ -28,6 +28,10 @@ h1{
 	display: block;
 	color: #1abc9c
 }
+#script .tour-guide{
+	display: block;
+	color: #f1c40f	
+}
 #script .word-in-script{
 	color: #3498db
 }
